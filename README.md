@@ -1,3 +1,26 @@
+
+
+[!NOTE]
+
+Useful information that users should know, even when skimming content.
+
+[!TIP]
+
+Helpful advice for doing things better or more easily.
+
+[!IMPORTANT]
+
+Key information users need to know to achieve their goal.
+
+[!WARNING]
+
+Urgent info that needs immediate user attention to avoid problems.
+
+[!CAUTION]
+
+Advises about risks or negative outcomes of certain actions.
+
+
 # OpenHarmony_sig组织PR评论支持命令清单
 sig仓库门禁    
 触发方式从之前的被动触发变为主动触发，需要评论内容“sig start build”     
